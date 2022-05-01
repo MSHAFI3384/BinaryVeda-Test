@@ -1,0 +1,20 @@
+export const profilePageData = [
+    {
+        picPath:require('../../assets/profile_page/group1.png')
+    },
+    {
+        picPath:require('../../assets/profile_page/group2.png')
+    },
+    {
+        picPath:require('../../assets/profile_page/group3.png')
+    },
+    {
+        picPath:require('../../assets/profile_page/group4.png')
+    },
+    {
+        picPath:require('../../assets/profile_page/group5.png')
+    },
+    {
+        picPath:require('../../assets/profile_page/group6.png')
+    },
+]
